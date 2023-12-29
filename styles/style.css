@@ -57,4 +57,14 @@ label {
     justify-content: center;
     align-items: center; }
 
+.btn {
+  margin-top: 20px;
+  height: 30px; }
+
+.profile {
+  border: 2px solid coral;
+  width: 200px;
+  height: 100px;
+  margin-top: 50px; }
+
 /*# sourceMappingURL=style.css.map */
